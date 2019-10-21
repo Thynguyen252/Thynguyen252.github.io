@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Grenze&display=swap');
+
+body {
+  background-color: #EBE8E4;
+  font-family: 'Grenze', serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20pt;
+  font-family: "Georgia";
+}
+
+p {
+  color: #402D09;
+
+}
+
+a {
+  color: #402D09;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
+a:active {
+  color: white
+}
